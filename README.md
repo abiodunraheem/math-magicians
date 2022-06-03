@@ -41,7 +41,7 @@ Start the web dev server depending on your configuration
 
 The Project should now be live on your browser
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@Abiodunraheem](https://github.com/Abiodunraheem)
 - Twitter: [@abiodunraheem23](https://twitter.com/abiodunraheem23)
