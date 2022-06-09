@@ -2,7 +2,7 @@
 
 # math-magicians
 
-Math magicians is a single page application that features three pages: A Home page with some welcoming textx, A Calculator page which has a page with a calculator that you can o math with and a Quotes page which has a quote about what "Math magicians are".
+Math magicians is a single page application that features three pages: A Home page with some welcoming text, A Calculator page which has a page with a calculator that you can do math with and a Quotes page which has a quote about what "Math magicians are".
 Enjoy!
 
 ## Built With
