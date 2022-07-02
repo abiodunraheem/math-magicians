@@ -45,7 +45,7 @@ The Project should now be live on your browser
 
 - GitHub: [@Abiodunraheem](https://github.com/Abiodunraheem)
 - Twitter: [@abiodunraheem23](https://twitter.com/abiodunraheem23)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abiodun-raheem-908b33154)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abiodun-raheem)
 
 Contributions, issues, and feature requests are welcome!
 
